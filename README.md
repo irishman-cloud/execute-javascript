@@ -1,6 +1,9 @@
 # ![Irishman Execute's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/execute-javascript/master/.github/banner.svg)
 
-Run your code on machines in the cloud.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/execute-javascript)](https://github.com/irishman-cloud/execute-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/execute-javascript)](https://github.com/irishman-cloud/execute-javascript/issues)
+
+<b align="center">Run your code on machines in the cloud.</b>
 
 ## Table of Contents
 
